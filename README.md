@@ -11,7 +11,6 @@ This is my first local change to the repo!
 ###### Heading 6
 
 
-[link text](http://www.google.com) 
 
 ![An image of a cat](http://placekitten.com/200/300)
 
