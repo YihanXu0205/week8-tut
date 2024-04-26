@@ -10,5 +10,7 @@ This is my first local change to the repo!
 ##### Heading 5
 ###### Heading 6
 
-**Bold Text** 
-*italics Text*
+
+[link text](http://www.google.com) 
+
+![An image of Mona Lisa](assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
